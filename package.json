@@ -1,0 +1,16 @@
+{
+  "name": "tcp_proxy",
+  "version": "1.0.0",
+  "description": "TCP Port Forwarding",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.3",
+    "net": "^1.0.2"
+  }
+}
